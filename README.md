@@ -3,7 +3,6 @@ Coursera Specialization
 
 University of Michigan: Statistics with Python
 
-- Week 1 - Introduction to Data
-- Week 2 - Univariate Data
-- Week 3 - Multivariate Data
-- Week 4 - Populations and Samples
+- Course 1: Understanding and Visualizing Data with Python
+- Course 2: Inferential Statistical Analysis with Python
+- Course 3: Fitting Statistical Models to Data with Python
